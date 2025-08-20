@@ -215,8 +215,8 @@ public class StringUtils {
 
 ```json
 {
-  "aiCommenter.apiKey": "AIzaSyD...", 
-  "aiCommenter.model": "gemini-2.0-pro"
+  "aiCommenter.apiKey": "A############z", 
+  "aiCommenter.model": "gemini-2.0-flash"
 }
 ```
 
